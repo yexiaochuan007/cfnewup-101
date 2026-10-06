@@ -1,0 +1,9 @@
+name = "cfnewup-101"
+pages_build_output_dir = "."
+compatibility_date = "2026-01-20"
+
+kv_namespaces = []
+
+[[env.production.kv_namespaces]]
+binding = "c"
+id = "277fba5b2c9f42edb0bbe4e01c70d46a"
